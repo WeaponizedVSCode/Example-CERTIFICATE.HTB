@@ -25,4 +25,7 @@ with command prefix: `weapon`, you can try:
 
 ... and more
 
+### Demo of auto generation report
+
+[![Watch the video](https://img.youtube.com/vi/gtQHCBkDQxs/maxresdefault.jpg)](https://youtu.be/gtQHCBkDQxs)
 
